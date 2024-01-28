@@ -1,0 +1,13 @@
+* {
+    background-color: rgb(170, 253, 170);
+}
+
+.heading {
+    color: brown;
+}
+
+#title {
+    text-align: center;
+    font-weight: bold;
+    font-size: 60px;
+}
