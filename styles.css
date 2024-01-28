@@ -2,12 +2,17 @@
     background-color: rgb(253, 242, 170); 
 }
 
-.heading {
-    color: brown;
-}
-
 #title {
     text-align: center;
     font-weight: bold;
     font-size: 60px;
+}
+
+.heading {
+    color: brown;
+    font-size: 30px;
+}
+
+p, ul, ol, a {
+    font-size: 20px;
 }
