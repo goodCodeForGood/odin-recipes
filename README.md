@@ -1,4 +1,4 @@
-Project: Recipes
+**Project: Recipes**
 
 This project is a website where users can find recipes for simple dishes regardless of their cooking experience level. 
 
